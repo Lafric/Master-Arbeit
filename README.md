@@ -1,6 +1,47 @@
 # Table presenting the common points between different reproducibility checklists standards (recommandations for papers): 
 
 - Paper On Reproducible AI : [https://www.researchgate.net/publication/327942340_On_Reproducible_AI_Towards_Reproducible_Research_Open_Science_and_Digital_Scholarship_in_AI_Publications](https://www.researchgate.net/publication/327942340_On_Reproducible_AI_Towards_Reproducible_Research_Open_Science_and_Digital_Scholarship_in_AI_Publications?enrichId=rgreq-d3eba7b3db33c9d191ea683f062934e7-XXX&enrichSource=Y292ZXJQYWdlOzMyNzk0MjM0MDtBUzo3NDE3MDU1NDg1NjI0MzJAMTU1Mzg0Nzc5MTA1Ng%3D%3D&el=1_x_2&_esc=publicationCoverPdf)
+  Part I: Recommendations for data in publications.
+  RECOMMENDATIONS 1-5: Data mentioned in a publication should:
+  
+    1. Be available in a shared community repository, so anyone can access it
+    2. Include basic metadata, so others can search and understand its contents
+    3. Have a license, so anyone can understand the conditions for reuse of the data
+    4. Have an associated digital object identifier (DOI) or persistent URL (PURL) so that the data is available permanently
+    5. Be cited properly in the prose and listed accurately among the references, so readers can identify the datasets unequivocally and data creators can receive credit for their work
+  
+  Part II: Recommendations for source code implementing AI methods and experiments in publications.
+  RECOMMENDATIONS 6-10: Source code used for implementing an AI method and executing an experiment should
+  
+    6. Be available in a shared community repository, so anyone can access it
+    7. Include basic metadata, so others can search and understand its contents
+    8. Include a license, so anyone can understand the conditions for use and extension of the software
+    9. Have an associated digital object identifier (DOI) or persistent URL (PURL) for the version used in the associated publication so that the source code is permanently available
+    10. Be cited and referenced properly in the publication so that readers can identify the version unequivocally and its creators can receive credit for their work
+  
+  Part III: Recommendations for AI methods in publications.
+  
+  RECOMMENDATIONS (11-13): AI methods used in a publication should be:
+  
+    11. Presented in the context of a problem description that clearly identifies what problem they are intended to solve
+    12. Outlined conceptually so that anyone can understand their foundational concepts
+    13. Described in pseudocode so that others can understand the details of how they work
+  
+  Part IV: Recommendations for experiments described in publications.
+  RECOMMENDATIONS (14-23): Descriptions of experiments in a publication should:
+  
+    14. Explicitly present the hypotheses to be assessed, before other details concerning the empirical study are presented
+    15. Present the predicted outcome of the experiment, based on beliefs about the AI method and its application
+    16. Include the experiment design (parameters and the conditions to be tested) and its motivation, such as why a specific number of tests or data points are used based on the desired statistical significance of results and the availability of data
+    17. Identify and describe the measure and metrics
+    18. Provide the evaluation protocol
+    19. Share the results
+    20. Describe the results and the analysis
+    21. Be described as a workflow that summarizes how the experiment is executed and configured
+    22. Include documentation on workflow executions or execution traces that provide parameter settings and initial, intermediate, and final data
+    23. Specify the hardware used to run the experiments
+    24. Be cited and published separately when complex, so that others can unequivocally refer to the individual portions of the method that they reuse or extend
+        
 - MICCAI : [https://aaai.org/conference/aaai/aaai-23/reproducibility-checklist/](https://miccai2021.org/files/downloads/MICCAI2021-Reproducibility-Checklist.pdf)
 
 - AAAI: https://aaai.org/conference/aaai/aaai-23/reproducibility-checklist/
@@ -15,7 +56,7 @@ The considered mostly three points: <strong>code, method/implementation, and exp
 
 
 
-| **Theme**                                    | **First Source**                               | **MICCAI**                                                         | **AAAI**                                              | **Notes**                                                                                                                  |
+| **Theme**                                    | **On Reproducible AI**                               | **MICCAI**                                                         | **AAAI**                                              | **Notes**                                                                                                                  |
 | -------------------------------------------- | ---------------------------------------------- | ------------------------------------------------------------------ | ----------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | **Public availability of datasets**          | 1 (data in shared repo)                        | Dataset link if public                                             | Datasets publicly available (yes)                     | All emphasize *public access*. MICCAI & AAAI are conditional if data is not public, but First Source assumes it should be. |
 | **Metadata for datasets**                    | 2 (basic metadata)                             | Dataset description, stats, cohort details, acquisition parameters | Detailed dataset description if not public            | MICCAI goes deeper into cohort, acquisition process, ethics; AAAI requires detail if not public.                           |
