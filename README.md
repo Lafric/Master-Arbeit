@@ -4,28 +4,28 @@
   Part I: Recommendations for data in publications.
   RECOMMENDATIONS 1-5: Data mentioned in a publication should:
   
-  1.Be available in a shared community repository, so anyone can access it
-  2. Include basic metadata, so others can search and understand its contents
-  3. Have a license, so anyone can understand the conditions for reuse of the data
-  4. Have an associated digital object identifier (DOI) or persistent URL (PURL) so that the data is available permanently
+  1. Be available in a shared community repository, so anyone can access it //
+  2. Include basic metadata, so others can search and understand its contents//
+  3. Have a license, so anyone can understand the conditions for reuse of the data //
+  4. Have an associated digital object identifier (DOI) or persistent URL (PURL) so that the data is available permanently //
   5. Be cited properly in the prose and listed accurately among the references, so readers can identify the datasets unequivocally and data creators can receive credit for their work
   
   Part II: Recommendations for source code implementing AI methods and experiments in publications.
   RECOMMENDATIONS 6-10: Source code used for implementing an AI method and executing an experiment should
   
-    6. Be available in a shared community repository, so anyone can access it
-    7. Include basic metadata, so others can search and understand its contents
-    8. Include a license, so anyone can understand the conditions for use and extension of the software
-    9. Have an associated digital object identifier (DOI) or persistent URL (PURL) for the version used in the associated publication so that the source code is permanently available
-    10. Be cited and referenced properly in the publication so that readers can identify the version unequivocally and its creators can receive credit for their work
+  6. Be available in a shared community repository, so anyone can access it
+  7. Include basic metadata, so others can search and understand its contents
+  8. Include a license, so anyone can understand the conditions for use and extension of the software
+  9. Have an associated digital object identifier (DOI) or persistent URL (PURL) for the version used in the associated publication so that the source code is permanently available
+  10. Be cited and referenced properly in the publication so that readers can identify the version unequivocally and its creators can receive credit for their work
   
   Part III: Recommendations for AI methods in publications.
   
   RECOMMENDATIONS (11-13): AI methods used in a publication should be:
   
-    11. Presented in the context of a problem description that clearly identifies what problem they are intended to solve
-    12. Outlined conceptually so that anyone can understand their foundational concepts
-    13. Described in pseudocode so that others can understand the details of how they work
+  11. Presented in the context of a problem description that clearly identifies what problem they are intended to solve
+  12. Outlined conceptually so that anyone can understand their foundational concepts
+  13. Described in pseudocode so that others can understand the details of how they work
   
   Part IV: Recommendations for experiments described in publications.
   RECOMMENDATIONS (14-23): Descriptions of experiments in a publication should:
