@@ -5,7 +5,7 @@
 
 - AAAI: https://aaai.org/conference/aaai/aaai-23/reproducibility-checklist/
 
-The considered mostly three points: <br>code, method/implementation, and experiment</br>
+The considered mostly three points: <strong>code, method/implementation, and experiment</strong>
 
 
 
