@@ -1,9 +1,9 @@
 # Table presenting the common points between different reproducibility checklists standards (recommandations for papers): 
 
 - Paper On Reproducible AI : [https://www.researchgate.net/publication/327942340_On_Reproducible_AI_Towards_Reproducible_Research_Open_Science_and_Digital_Scholarship_in_AI_Publications](https://www.researchgate.net/publication/327942340_On_Reproducible_AI_Towards_Reproducible_Research_Open_Science_and_Digital_Scholarship_in_AI_Publications?enrichId=rgreq-d3eba7b3db33c9d191ea683f062934e7-XXX&enrichSource=Y292ZXJQYWdlOzMyNzk0MjM0MDtBUzo3NDE3MDU1NDg1NjI0MzJAMTU1Mzg0Nzc5MTA1Ng%3D%3D&el=1_x_2&_esc=publicationCoverPdf)
-- MICCAI : [https://aaai.org/conference/aaai/aaai-23/reproducibility-checklist/<img width="693" height="28" alt="image" src="https://github.com/user-attachments/assets/4b56afbb-237b-4447-9a60-979317eae42a" />](https://miccai2021.org/files/downloads/MICCAI2021-Reproducibility-Checklist.pdf)
+- MICCAI : [https://aaai.org/conference/aaai/aaai-23/reproducibility-checklist/](https://miccai2021.org/files/downloads/MICCAI2021-Reproducibility-Checklist.pdf)
 
-- AAAI: https://aaai.org/conference/aaai/aaai-23/reproducibility-checklist/<img width="693" height="28" alt="image" src="https://github.com/user-attachments/assets/c35f14c3-7f07-4660-a3ef-f84e9cc33b30" />
+- AAAI: https://aaai.org/conference/aaai/aaai-23/reproducibility-checklist/
 
 
 
