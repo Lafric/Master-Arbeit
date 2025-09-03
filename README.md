@@ -4,11 +4,11 @@
   Part I: Recommendations for data in publications.
   RECOMMENDATIONS 1-5: Data mentioned in a publication should:
   
-    1. Be available in a shared community repository, so anyone can access it
-    2. Include basic metadata, so others can search and understand its contents
-    3. Have a license, so anyone can understand the conditions for reuse of the data
-    4. Have an associated digital object identifier (DOI) or persistent URL (PURL) so that the data is available permanently
-    5. Be cited properly in the prose and listed accurately among the references, so readers can identify the datasets unequivocally and data creators can receive credit for their work
+  1.Be available in a shared community repository, so anyone can access it
+  2. Include basic metadata, so others can search and understand its contents
+  3. Have a license, so anyone can understand the conditions for reuse of the data
+  4. Have an associated digital object identifier (DOI) or persistent URL (PURL) so that the data is available permanently
+  5. Be cited properly in the prose and listed accurately among the references, so readers can identify the datasets unequivocally and data creators can receive credit for their work
   
   Part II: Recommendations for source code implementing AI methods and experiments in publications.
   RECOMMENDATIONS 6-10: Source code used for implementing an AI method and executing an experiment should
